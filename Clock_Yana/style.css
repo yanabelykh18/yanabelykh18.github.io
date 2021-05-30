@@ -1,6 +1,6 @@
 body
 {
-  background-image: white;
+  background-image: #e166a5;
 }
 
 #container
@@ -18,6 +18,7 @@ body
     width: 96%;
     height: 96%;
     background-color: #e166a5;
+    background-image: url("giphy.gif");
     border-radius: 50%;
 }
 
@@ -27,7 +28,7 @@ body
     width: 410px;
     height: 410px;
     border-radius: 50%;
-    background-image: url("giphy.gif");
+    background-color: white;
 }
 
 #second-hand 
