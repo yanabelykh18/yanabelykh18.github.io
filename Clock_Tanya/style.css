@@ -17,8 +17,8 @@ body
     left: 2%;
     width: 96%;
     height: 96%;
+    background-image: url("princes.gif"); 
     background-color: pink;
-    background-image:url("princes.gif"); ;
     border-radius: 50%;
 }
 
@@ -107,12 +107,12 @@ body
 #photo
 {   
     position: absolute;
-    top: 5px;
-    left: 70px;
-    width: 300px;
-    height: 300px;
-    border-radius: 10%;
-    background-size: 30%;
+    top: -10px;
+    left: 50px;
+    width: 320px;
+    height: 350px;
+    border-radius: 0%;
+    background-size: 100%;
     background-image: url("princes1.gif");   
 }
 
