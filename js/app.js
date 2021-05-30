@@ -28,8 +28,8 @@ particlesJS('particles-js',
       "shape": {
         "type": "circle",
         "stroke": {
-          "width": 1,
-          "color": "#ffffff"
+          "width": 0,
+          "color": "#000000"
         },
         "polygon": {
           "nb_sides": 5
@@ -55,7 +55,7 @@ particlesJS('particles-js',
         "random": true,
         "anim": {
           "enable": false,
-          "speed": 30,
+          "speed": 40,
           "size_min": 0.1,
           "sync": false
         }
@@ -103,7 +103,7 @@ particlesJS('particles-js',
         },
         "bubble": {
           "distance": 400,
-          "size": 50,
+          "size": 40,
           "duration": 2,
           "opacity": 8,
           "speed": 3
@@ -122,8 +122,8 @@ particlesJS('particles-js',
     "retina_detect": true,
     "config_demo": {
       "hide_card": false,
-      "background_color": "#000000",
-      "background_image": "url(https://avatars.mds.yandex.net/get-zen_doc/2352854/pub_5ffc672abb14d54ffb9c2dbd_5ffc6757d1a90641cafdd82b/scale_1200)",
+      "background_color": "#000305",
+      "background_image": "",
       "background_position": "50% 50%",
       "background_repeat": "no-repeat",
       "background_size": "cover"
