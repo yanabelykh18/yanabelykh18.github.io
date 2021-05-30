@@ -26,7 +26,6 @@ body
     position: absolute;
     width: 410px;
     height: 410px;
-    background-color: #e166a5;
     border-radius: 50%;
     background-image: url("giphy.gif");
 }
