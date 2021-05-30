@@ -106,8 +106,8 @@ body
 #photo
 {   
     position: absolute;
-    top: -10px;
-    left: 50px;
+    top: 48%;
+    left: 48%;
     width: 500px;
     height: 280px;
     border-radius: 0%;
