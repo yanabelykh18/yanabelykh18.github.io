@@ -123,7 +123,7 @@ particlesJS('particles-js',
     "config_demo": {
       "hide_card": false,
       "background_color": "#000000",
-      "background_image": url(https://avatars.mds.yandex.net/get-zen_doc/2352854/pub_5ffc672abb14d54ffb9c2dbd_5ffc6757d1a90641cafdd82b/scale_1200),
+      "background_image": "url(https://avatars.mds.yandex.net/get-zen_doc/2352854/pub_5ffc672abb14d54ffb9c2dbd_5ffc6757d1a90641cafdd82b/scale_1200)",
       "background_position": "50% 50%",
       "background_repeat": "no-repeat",
       "background_size": "cover"
