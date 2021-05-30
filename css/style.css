@@ -101,7 +101,6 @@ canvas{
     width: 35px;
     height: 35px;
     background-size: 100%;
-    margin-left: 95%;
 }
 
 #vk
@@ -111,7 +110,7 @@ canvas{
     width: 35px;
     height: 35px;
     background-size: 100%;
-    margin-left: 91%;
+
 }
 	
 #inst1
@@ -121,7 +120,6 @@ canvas{
     width: 35px;
     height: 35px;
     background-size: 100%;
-    margin-left: 55%;
 }
 
 #vk1
@@ -131,7 +129,7 @@ canvas{
     width: 35px;
     height: 35px;
     background-size: 100%;
-    margin-left: 51%;
+
 }
 #inst2
 {   
@@ -140,16 +138,15 @@ canvas{
     width: 35px;
     height: 35px;
     background-size: 100%;
-    margin-left: 25%;
 }
 
 #vk2
 {   
     top: 11%;
-    position: relative;
+    position: absolute;
     width: 35px;
     height: 35px;
     background-size: 100%;
-    right: 15px;
+
 }
 }
