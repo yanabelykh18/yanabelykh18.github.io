@@ -93,4 +93,24 @@ canvas{
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
+	
+#inst
+{   
+    top: 11%;
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    background-size: 100%;
+    margin-left: 95%;
+}
+
+#vk
+{   
+    top: 11%;
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    background-size: 100%;
+    margin-left: 91%;
+}
 }
