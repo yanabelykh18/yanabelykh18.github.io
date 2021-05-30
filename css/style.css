@@ -100,7 +100,7 @@ canvas{
     position: absolute;
     width: 35px;
     height: 35px;
-    background-size: 100%;
+    background-size: 30%;
 }
 
 #vk
@@ -109,7 +109,7 @@ canvas{
     position: absolute;
     width: 35px;
     height: 35px;
-    background-size: 100%;
+    background-size: 30%;
 
 }
 	
@@ -119,7 +119,7 @@ canvas{
     position: absolute;
     width: 35px;
     height: 35px;
-    background-size: 100%;
+    background-size: 30%;
 }
 
 #vk1
@@ -128,7 +128,7 @@ canvas{
     position: absolute;
     width: 35px;
     height: 35px;
-    background-size: 100%;
+    background-size: 30%;
 
 }
 #inst2
@@ -137,7 +137,7 @@ canvas{
     position: absolute;
     width: 35px;
     height: 35px;
-    background-size: 100%;
+    background-size: 30%;
 }
 
 #vk2
@@ -146,7 +146,7 @@ canvas{
     position: absolute;
     width: 35px;
     height: 35px;
-    background-size: 100%;
+    background-size: 30%;
 
 }
 }
