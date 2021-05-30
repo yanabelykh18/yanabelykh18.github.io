@@ -146,7 +146,7 @@ canvas{
 #vk2
 {   
     top: 11%;
-    position: absolute;
+    position: relative;
     width: 35px;
     height: 35px;
     background-size: 100%;
