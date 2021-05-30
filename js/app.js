@@ -23,13 +23,13 @@ particlesJS('particles-js',
         }
       },
       "color": {
-        "value": "#f4a460"
+        "value": "#ffffff"
       },
       "shape": {
         "type": "circle",
         "stroke": {
           "width": 1,
-          "color": "#f4a460"
+          "color": "#ffffff"
         },
         "polygon": {
           "nb_sides": 5
@@ -63,7 +63,7 @@ particlesJS('particles-js',
       "line_linked": {
         "enable": true,
         "distance": 150,
-        "color": "#f4a460",
+        "color": "#ffffff",
         "opacity": 0.4,
         "width": 1
       },
@@ -103,7 +103,7 @@ particlesJS('particles-js',
         },
         "bubble": {
           "distance": 400,
-          "size": 80,
+          "size": 50,
           "duration": 2,
           "opacity": 8,
           "speed": 3
@@ -123,7 +123,7 @@ particlesJS('particles-js',
     "config_demo": {
       "hide_card": false,
       "background_color": "#000000",
-      "background_image": "",
+      "background_image": url(https://avatars.mds.yandex.net/get-zen_doc/2352854/pub_5ffc672abb14d54ffb9c2dbd_5ffc6757d1a90641cafdd82b/scale_1200),
       "background_position": "50% 50%",
       "background_repeat": "no-repeat",
       "background_size": "cover"
