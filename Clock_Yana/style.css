@@ -28,6 +28,7 @@ body
     height: 410px;
     background-color: #e166a5;
     border-radius: 50%;
+    background-image: url("giphy.gif");
 }
 
 #second-hand 
@@ -112,5 +113,5 @@ body
     height: 280px;
     border-radius: 0%;
     background-size: 100%;
-    background-image: url("giphy.gif");   
+      
 }
