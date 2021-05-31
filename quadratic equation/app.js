@@ -38,7 +38,7 @@
 		}
 	} else if (a == 0 && b == 0 && c != 0){
 		document.write("Циферка не равна нулю :(");
-	} else if (c == 0) {
+	} else if (a == 0 && b == 0 && c == 0) {
 		document.write("Любые числа");
 	}
 
