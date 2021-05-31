@@ -1,6 +1,9 @@
         var a = prompt("Введите коэффицент а", "");
 	var b = prompt("Введите коэффицент b", "");
 	var c = prompt("Введите коэффицент c", "");
+        if(a == 0 && b == 0 && c == 0) {
+		document.write("Любые числа");
+	};
 
 	if (a != 0 && b != 0 && c != 0) {
 		var d = b * b - 4 * a * c;
@@ -38,7 +41,5 @@
 		}
 	} else if (a == 0 && b == 0 && c != 0){
 		document.write("Циферка не равна нулю :(");
-	} else if (a == 0 && b == 0 && c == 0) {
-		document.write("Любые числа");
-	}
+	} 
 
