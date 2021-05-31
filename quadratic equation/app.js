@@ -1,4 +1,4 @@
-var a = prompt("Введите коэффицент а", "");
+        var a = prompt("Введите коэффицент а", "");
 	var b = prompt("Введите коэффицент b", "");
 	var c = prompt("Введите коэффицент c", "");
 
@@ -39,6 +39,6 @@ var a = prompt("Введите коэффицент а", "");
 	} else if (a == 0 && b == 0 && c != 0){
 		document.write("Циферка не равна нулю :(");
 	} else if (c == 0) {
-		document.write("x = ", "0");
+		document.write("Любые числа");
 	}
 
